@@ -1,6 +1,6 @@
 import requests
 ip = input("Enter your public IP Address:")
-API_URL = f'http://ip-api.com/json/192.168.68.114'
+API_URL = f'http://ip-api.com/jspon/+ip'
 
 def get_public_ip_info():
     try:
